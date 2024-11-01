@@ -11,23 +11,3 @@
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh2Ynd1b24xajJrd2k4ejFpbDdmMm92ZHdtbnFicWdyanZid3pteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.webp" alt="Fun GIF" width="300">
     </div>
 </div>
-
-<style>
-    body {
-        background-color: #f9f9f9;
-        font-family: Arial, sans-serif;
-    }
-    h1 {
-        color: #333;
-    }
-    p {
-        color: #666;
-        margin: 10px 0;
-    }
-    hr {
-        margin: 20px 0;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-</style>
