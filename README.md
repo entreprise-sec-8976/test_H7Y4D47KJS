@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/1301978496297336912/1302047265434632322/HK1eq33Qup5O8vX.png?ex=6726b182&is=67256002&hm=007a26341828a181adb78cf69d43d735b54cb6cb32b8bcc22c4d1cf892f89d9d" alt="Welcome" width="400">
     <h1>Welcome to My GitHub Profile!</h1>
-    <p>Explore my projects and get to know more about my work.</p>
     <hr style="border: 1px solid #ccc; width: 80%;">
     <h3>
         <a href="https://pwn4love.com/" style="text-decoration: none; color: #1e90ff;">Visit my personal homepage</a> | 
