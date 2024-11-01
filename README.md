@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="" align="center">
-</div>
-
-<div align="center">
 <img src="https://cdn.discordapp.com/banners/1238997496332550247/5ee3453fd750e45e152ba19a55c3da20.png?size=4096&format=webp&quality=lossless&width=1024&height=0" alt="Welcome" align="center">
 </div>
 
