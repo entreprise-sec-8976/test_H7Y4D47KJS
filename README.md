@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/1238997496332550247/5ee3453fd750e45e152ba19a55c3da20.png?size=4096&format=webp&quality=lossless&width=1024&height=0" alt="Welcome" align="center">
+<img src="https://cdn.discordapp.com/attachments/1301978496297336912/1302047265434632322/HK1eq33Qup5O8vX.png?ex=6726b182&is=67256002&hm=007a26341828a181adb78cf69d43d735b54cb6cb32b8bcc22c4d1cf892f89d9d&" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -8,15 +8,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="https://pwn4love.com/">Visit my personal homepage
-<img src="https://cdn.discordapp.com/icons/1238997496332550247/8b849c505dff765fabe6587cce39c870.png?size=4096&format=webp&quality=lossless" alt="Visit Website" align="center">
-</a>
-</h3>
-
-<hr>
-
-<h3 align="center">
 <a href="https://discord.gg/pwn4love">Visit my personal Discord
-<img src="https://cdn.discordapp.com/icons/1238997496332550247/8b849c505dff765fabe6587cce39c870.png?size=4096&format=webp&quality=lossless" alt="Visit Website" align="center">
 </a>
 </h3>
 
