@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="" align="center">
 </div>
 
 <div align="center">
@@ -27,8 +27,7 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<p>Have a good day!</p>
 <div>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh2Ynd1b24xajJrd2k4ejFpbDdmMm92ZHdtbnFicWdyanZid3pteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.webp" alt="Smiley" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh2Ynd1b24xajJrd2k4ejFpbDdmMm92ZHdtbnFicWdyanZid3pteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.webp" alt="" align="center">
 </div>
 </div>
